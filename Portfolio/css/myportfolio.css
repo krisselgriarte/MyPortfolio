@@ -1,0 +1,46 @@
+body {
+    background-color: #9C90A9;
+}
+
+.title {
+	text-align: center;
+	color: white;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+.title:hover {
+	color: #231942;
+}
+
+.nav-bar {
+    text-align: center;
+    color: white;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 24px;
+}
+
+.nav-bar:hover {
+	color: #231942;
+}
+
+.main-picture {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+#connect {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+/*intro.html CSS*/
+
+.nav-wrapper {
+	background-color: #9C90A9;
+	color: white;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
