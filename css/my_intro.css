@@ -3,9 +3,16 @@
     }
 
 nav {
-  background-color: #A7756B;
+  background-color: white;
 }
 
 h1, p {
   color: #A7756B;
+
+}
+
+.nav-button {
+  color: black;
+  font-family: 'Sofia', cursive;
+  font-size: 20px;
 }
