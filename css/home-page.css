@@ -1,7 +1,21 @@
+body {
+  background: url("../images/home_background.jpg") no-repeat fixed;
+  background-size: 100% 100%;
+}
+
+h1 {
+  color: black;
+}
+
 nav {
+  background-color: white;
+}
+
+#enter_button {
   background-color: #A7756B;
 }
 
-.parallax-container {
-      height: 500px;
-    }
+.home-page-intro {
+  margin-top: 200px;
+  text-align: center;
+}
