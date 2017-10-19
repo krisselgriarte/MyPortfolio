@@ -1,0 +1,12 @@
+body {
+  background: url("../images/home_page_background.jpg") no-repeat fixed;
+  background-size: 100% 100%;
+}
+
+h1 {
+  color: white;
+}
+
+nav {
+  background-color: #A7756B;
+}
