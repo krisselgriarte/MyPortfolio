@@ -6,9 +6,16 @@ nav {
   background-color: #A7756B;
 }
 
-h1, p {
+p {
   color: #A7756B;
-  font-size: 12px;
+  font-size: 18px;
+
+}
+
+h1 {
+  color: black;
+  font-size: 24px;
+  font-family: Arial;
 
 }
 
