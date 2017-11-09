@@ -4,9 +4,15 @@ body {
 
 }
 
-h1, {
+.title {
   color: black;
-  font-size: 70px;
+  font-size: 60px;
+  text-shadow: 2px 2px #716A5C;
+}
+
+h5 {
+  color: black;
+  text-shadow: 2px 2px white;
 }
 
 nav {
@@ -14,7 +20,7 @@ nav {
 }
 
 #enter_button {
-  background-color: #A7756B;
+  background-color: #17BEBB;
 }
 
 .home-page-intro {
@@ -24,4 +30,10 @@ nav {
 
 .container {
   font-family: 'Sofia', cursive;
+}
+
+.krissy {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
 }
