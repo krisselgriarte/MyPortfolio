@@ -3,24 +3,23 @@
     }
 
 nav {
-  background-color: #A7756B;
+  background-color: white;
 }
 
-p {
-  color: #A7756B;
-  font-size: 18px;
-
+h3 {
+  color: #716A5C;
+  font-family: Verdana;
 }
 
-h1 {
-  color: black;
-  font-size: 24px;
-  font-family: Arial;
 
+p, ol{
+  color: #716A5C;
+  font-size: 16px;
+  font-family: Verdana;
 }
 
 .nav-button {
-  color: white;
-  font-family: 'Sofia', cursive;
+  color: #716A5C;
+  font-family: Verdana;
   font-size: 18px;
 }

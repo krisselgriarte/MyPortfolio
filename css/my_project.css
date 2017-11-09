@@ -1,14 +1,13 @@
+body {
+  background-color: black;
+}
+
 nav {
-  background-color: #A7756B;
+  background-color: white;
 }
 
 .nav-button {
-  color: white;
-  font-family: 'Sofia', cursive;
+  color: #716A5C;
+  font-family: Verdana;
   font-size: 18px;
 }
-
-/*.activator, .card-content {
-  height: 100px;
-  width: 200px;
-}*/
