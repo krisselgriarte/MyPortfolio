@@ -1,13 +1,13 @@
 body {
-  background-color: black;
-}
-
-nav {
   background-color: white;
 }
 
+nav {
+  background-color: #A7756B;
+}
+
 .nav-button {
-  color: #716A5C;
+  color: white;
   font-family: Verdana;
   font-size: 18px;
 }
@@ -16,5 +16,4 @@ nav {
   width: 400px;
   margin: 20px 20px 20px 20px;
   float: left;
-  opacity: 0.8;
 }
