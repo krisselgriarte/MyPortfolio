@@ -11,3 +11,10 @@ nav {
   font-family: Verdana;
   font-size: 18px;
 }
+
+.card {
+  width: 400px;
+  margin: 20px 20px 20px 20px;
+  float: left;
+  opacity: 0.8;
+}
