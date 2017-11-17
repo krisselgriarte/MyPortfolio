@@ -46,4 +46,9 @@ h3 {
 p {
   font-size: 12px;
 }
+
+.parallax {
+  width: 100%
+  height: auto;
+}
 }
