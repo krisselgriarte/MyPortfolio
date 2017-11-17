@@ -1,39 +1,59 @@
 body {
-  background: url("../images/home_background.jpg") no-repeat fixed;
+  background: url("../images/home_background.png") no-repeat fixed;
   background-size: 100% 100%;
-
+  max-width: 100%;
+  height: auto;
 }
 
 .title {
-  color: black;
+  padding-top: 200px;
+  font-family: 'Sofia', cursive;
+  color: white;
   font-size: 70px;
+  text-align: center;
   text-shadow: 2px 2px #716A5C;
 }
 
-h5 {
-  color: black;
-  text-shadow: 2px 2px white;
+.sub-title {
+  color: white;
+  font-size: 30px;
 }
 
 nav {
   background-color: white;
-}
-
-#enter_button {
-  background-color: #17BEBB;
-}
-
-.home-page-intro {
-  margin-top: 200px;
+  overflow: hidden;
   text-align: center;
 }
 
-.container {
-  font-family: 'Sofia', cursive;
+.nav-button {
+  display: inline-block;
+  text-align: center;
+  color: grey;
+  font-size: 18px;
+  font-style: normal;
 }
 
-.krissy {
-  border-radius: 50%;
-  width: 150px;
-  height: 150px;
+
+@media screen and (max-width: 580px) {
+  nav ul {
+    box-sizing: border-box;
+    width: 100%;
+    text-align: left;
+  }
+  .nav-button {
+    width: 100%;
+    font-size: 14px;
+    margin: 0;
+  }
+  background {
+    width: 100%;
+  }
+  .title {
+    width: 100%;
+    font-size: 40px;
+  }
+  .sub-title {
+    width: 100%;
+    font-size: 17px;
+  }
 }
